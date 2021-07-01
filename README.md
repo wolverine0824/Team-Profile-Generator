@@ -1,3 +1,10 @@
+
+
+https://user-images.githubusercontent.com/69323735/124055057-38e7e780-d9f1-11eb-9d1c-e607bf5ba6f7.mov
+
+<img width="1440" alt="Screen Shot 2021-06-30 at 10 14 07 PM" src="https://user-images.githubusercontent.com/69323735/124055077-41d8b900-d9f1-11eb-8402-1733de218094.png">
+<img width="1440" alt="Screen Shot 2021-06-30 at 10 13 57 PM" src="https://user-images.githubusercontent.com/69323735/124055079-42714f80-d9f1-11eb-9e23-b4a8eb0f0de9.png">
+<img width="1440" alt="Screen Shot 2021-06-30 at 10 12 56 PM" src="https://user-images.githubusercontent.com/69323735/124055081-4309e600-d9f1-11eb-8c4a-aa83fdcfaff6.png">
 # 10 Object-Oriented Programming: Team Profile Generator
 
 ## Your Task
